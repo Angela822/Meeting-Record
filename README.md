@@ -1,4 +1,3 @@
 Meeting Record
 
-3.27
-整理github、進度規劃
+3.27--整理github、進度規劃
