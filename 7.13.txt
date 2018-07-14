@@ -1,0 +1,10 @@
+7/13(五)開會紀錄：
+＜完成事項＞
+1.建立Line Developer 的帳號
+2.利用heroku &git將網頁檔案放到git上，並透過heroku建立網址
+  我們的網頁網址:https://take-book.herokuapp.com/
+下次開會需做事項：
+1.討論並確定Line功能
+2.將程式試放到建的sever上，與Line Messaging API Webhook串接
+3.網頁進度檢查
+4.將大家的程式碼整合在Github＆Gitkraken上
