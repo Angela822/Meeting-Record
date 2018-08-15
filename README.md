@@ -25,4 +25,5 @@
 7.22--製作webhook URL，並部屬到Heroku上(還在試的階段)</p>
 7.24--跟老師Meeting，報告進度</p>
 8.08--進度check</p>
+8.13--進度check</p>
 
