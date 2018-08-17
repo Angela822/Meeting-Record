@@ -1,0 +1,6 @@
+8/17(五)開會紀錄：
+1. 23--personal.html書本外掛ok
+   25--Takebook linebot目前狀況：
+       已完成:按鈕連結大致ok
+       未完成:連資料庫&計算分析結果數值的程式碼
+   40--Heroku Postgres資料庫與heroku連接成功
